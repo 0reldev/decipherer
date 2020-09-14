@@ -15,6 +15,7 @@ The purpose is to create method to decode thoses messages following some rules:
 4. Reverse the string. 
 
 In the end, once that the algorithm works, the three secret messages are displayed in the command lines: 
+
 ![screen capture](https://github.com/0reldev/decipherer/blob/master/screen-capture.png?raw=true)
 
 
