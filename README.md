@@ -10,7 +10,7 @@ The <code>Main</code> class contains three secret messages. The purpose is to cr
 3. Replace the <code>@#?</code> characters with a space.
 4. Reverse the string. 
 
-In the end, once the algorithm works, the three secret messages are display in the command lines: 
+In the end, once that the algorithm works, the three secret messages are displayed in the command lines: 
 ![screen capture](https://github.com/0reldev/decipherer/blob/master/screen-capture.png?raw=true)
 
 
