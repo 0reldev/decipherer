@@ -5,6 +5,7 @@
 The repository contains a simple exercice to learn how to use methods in Java.
 
 The <code>Main</code> class contains three secret messages:
+
 ![screen capture](https://github.com/0reldev/decipherer/blob/master/secret-messages.png?raw=true)
 
 The purpose is to create method to decode thoses messages following some rules: 
