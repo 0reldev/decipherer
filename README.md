@@ -2,7 +2,7 @@
 
 ## Educational exercise from Wild Code School
 
-The repository contains a simple exercice to learn how to use methods in Java.
+The repository contains a simple exercise to learn how to use methods in Java.
 
 The <code>Main</code> class contains three secret messages:
 
